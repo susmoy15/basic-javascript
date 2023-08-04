@@ -3,6 +3,7 @@ console.log(money_count.length);
 
 var position = money_count.indexOf(50);
 console.log(position);
+console.log(arr[2]);
 
 money_count[2]=90;
 console.log(money_count);
