@@ -39,3 +39,10 @@ fruits.pop();
 console.log(fruits);
 fruits.push('Watermelon');
 console.log(fruits);
+
+
+ 
+
+var i = 0;
+for (i=0; i<5; i++){};
+console.log(i);
